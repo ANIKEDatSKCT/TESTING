@@ -2256,3 +2256,63 @@ org.eclipse.core.runtime.CoreException: Launch configuration Day7task1 reference
 2023-06-05 10:25:50,910 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Report\src\main\resources
 2023-06-05 10:25:50,914 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-06-05 10:25:50,914 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Report\src\test\resources
+2023-06-05 10:32:35,984 [Worker-67: Launching mavenrun-6f62fee5-d4eb-444d-a594-35af3cfa41f9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\anike\OneDrive\Documents\GitHub\TESTING
+2023-06-05 10:32:35,985 [Worker-67: Launching mavenrun-6f62fee5-d4eb-444d-a594-35af3cfa41f9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=com.day6.Day8 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=com.day6 -DartifactId=Day8 -DoutputDirectory=C:\Users\anike\OneDrive\Documents\GitHub\TESTING -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2023-06-05 10:32:53,788 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\pom.xml
+2023-06-05 10:32:53,873 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.day6:Day8:0.0.1-SNAPSHOT @ C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\pom.xml.
+2023-06-05 10:32:54,233 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day8/src/main/java
+2023-06-05 10:32:54,238 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day8/src/test/java
+2023-06-05 10:32:54,302 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-06-05 10:32:54,661 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:32:54,661 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 10:32:54,663 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:32:54,663 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 10:33:50,490 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.day6:Day8:0.0.1-SNAPSHOT @ C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\pom.xml.
+2023-06-05 10:33:50,946 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:33:50,947 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 10:33:50,949 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:33:50,949 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 10:33:52,315 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:33:52,315 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 10:33:52,317 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:33:52,317 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 10:41:04,460 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:41:04,461 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 10:41:04,464 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:41:04,464 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 10:42:22,833 [Worker-71: Launching Day8task1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:42:22,833 [Worker-71: Launching Day8task1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 10:42:22,836 [Worker-71: Launching Day8task1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:42:22,836 [Worker-71: Launching Day8task1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 10:58:26,658 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:58:26,658 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 10:58:26,662 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 10:58:26,664 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:00:19,228 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:00:19,228 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:00:19,231 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:00:19,232 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:01:52,254 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:01:52,254 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:01:52,259 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:01:52,260 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:02:33,031 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:02:33,032 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:02:33,036 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:02:33,036 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:03:21,210 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:03:21,210 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:03:21,213 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:03:21,214 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:04:00,813 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:04:00,813 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:04:00,818 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:04:00,819 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:05:09,550 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:05:09,551 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:05:09,556 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:05:09,557 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
+2023-06-05 11:05:55,187 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:05:55,187 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\main\resources
+2023-06-05 11:05:55,192 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-05 11:05:55,192 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\anike\OneDrive\Documents\GitHub\TESTING\Day8\src\test\resources
