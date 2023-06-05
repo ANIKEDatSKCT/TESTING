@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testNG.Report.NewTest">
+      <class name="com.testNG.Report.Day7task4">
         <methods>
           <include name="afterTest"/>
-          <include name="facebook"/>
-          <include name="beforeTest"/>
         </methods>
-      </class> <!-- com.testNG.Report.NewTest -->
+      </class> <!-- com.testNG.Report.Day7task4 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

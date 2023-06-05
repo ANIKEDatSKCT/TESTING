@@ -8,24 +8,29 @@ import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 
-public class NewTest {
-	WebDriver dr;
+public class Day7task1 {
+	WebDriver wd;
+
   @Test
   public void facebook() {
-	  dr.findElement(By.name("email")).sendKeys("Student@gmail.com");
-	  dr.findElement(By.name("pass")).sendKeys("Student123");
-	  dr.findElement(By.name("login")).click();
+	 
+	  String title=wd.getTitle();
+	  Assert.assertEquals( "Guest Registration Form - User Registration",title);
+	  
+	  
 	  
 	  
   }
   @BeforeTest
   public void beforeTest() {
+	  
 	  WebDriverManager.chromedriver().setup();
-	  dr=new ChromeDriver();
-	  dr.get("https://www.facebook.com");
-	  dr.manage().window().maximize();
+	  wd=new ChromeDriver();
+	  wd.get("https://demo.wpeverest.com/user-registration/guest-registration-form/");
+	  
 	  
 	  
   }
@@ -33,7 +38,6 @@ public class NewTest {
   @AfterTest
   public void afterTest() {
 	  
-	  dr.quit();
 	  
 	  
   }
